@@ -1,4 +1,6 @@
-// using sp-api wrapper
+// https://developer-docs.amazon.com/sp-api/reference/fba-inventory-v1
+
+// using API
 import spApi from '@api/sp-api';
 
 spApi.getInventorySummaries({

@@ -4,6 +4,15 @@ Amazon to au PAYマーケット 無在庫出品ツール（Beyond）仕様書
 Amazon Japanの商品を無在庫でau PAYマーケットに出品・管理するための自動化ツール。
 在庫管理、価格調整、注文処理、除外設定などの機能を備え、効率的な無在庫販売をサポート。
 
+在庫管理
+https://developer-docs.amazon.com/sp-api/reference/fba-inventory-v1
+
+価格調整
+https://developer-docs.amazon.com/sp-api/reference/product-pricing-v0
+
+注文処理
+https://developer-docs.amazon.com/sp-api/reference/orders-v0
+
 ## 2. 機能一覧
 2.1 注文管理
 - **注文処理**
