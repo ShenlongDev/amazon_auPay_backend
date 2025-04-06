@@ -3,20 +3,16 @@
 // using API
 import spApi from '@api/sp-api';
 
-spApi.getCatalogItem({
-    marketplaceIds: 'A1VC38T7YXB528',
-    includedData: 'summaries', // summaries, attributes, images
-    asin: 'B085G2227B'
-})
-    .then(({ data }) => console.log(data))
-    .catch(err => console.error(err));
+spApi.getCatalogItem({MarketplaceId: 'A1VC38T7YXB528', asin: 'B085G2227B'})
+  .then(({ data }) => console.log(data))
+  .catch(err => console.error(err));
 
 // using axios
 import axios from 'axios';
 
 const options = {
     method: 'GET',
-    url: 'https://sellingpartnerapi-na.amazon.com/catalog/2022-04-01/items/B085G2227B?marketplaceIds=A1VC38T7YXB528&includedData=summaries',
+    url: 'https://sellingpartnerapi-na.amazon.com/catalog/v0/items/B085G2227B?MarketplaceId=A1VC38T7YXB528',
     headers: { accept: 'application/json' }
 };
 
