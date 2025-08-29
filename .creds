@@ -1,0 +1,34 @@
+Amazon SPAPI
+
+クライアントID
+amzn1.application-oa2-client.16ad55c928f54e9a8b53aa55e4d187e5
+
+クライアント秘密情報
+amzn1.oa2-cs.v1.74d12a22bc950a65959d9ea921f4908e7993db43b991b46a9f617c3be201cdc9
+
+アプリケーションID
+amzn1.sp.solution.6a681835-a093-4707-987d-0b55bf896f8a
+
+リフレッシュトークン
+Atzr|IwEBID3P9krpwobg5OI_XXFhabjF9eWSa3n8keg4gkHo4mNjZVu-GgrRkC0NdyQNQOXibDuRHc0pn22J4bDL6UalGEGox2wggR8bbSdGYFT6oduwjNLfqH96wRCmlcRnRkoks2IimpWW_TATi4BvonGazND5tQLOOZx7PS4q4Hw2fVcockj3Ebgny6V2PjYVlKEH22SwBod1fb1b05pSodY5unQGgpiIB_VLBMMT6kk7ZOHzisPGbCT0UQ1Jv9NPG4yewJv-C4TT_EAqxhtF_tdDn_tVXsUgvlzdhbvj72I9BLDfFJdfgUAB-SN9S4YSjWOuq1cND44whFCSREuxfQyxYQLr3c0U72vmC0dTdJkg-JpLpw
+
+MarketplaceIds: A1VC38T7YXB528
+
+Host: https://sellingpartnerapi-fe.amazon.com
+
+ローテーション期限 : 2025-09-13T04:42:37.944Z
+
+=======================================================================================
+
+auPay
+
+APIキー		b351816919bf4e9955a7660610e24cc8685e5b83d59fb5dc2b8af515ee670e5a
+有効期限		2025/06/15
+
+=======================================================================================
+
+https://au.saruten.net/
+
+ログイン
+au.ecinfo@hds-on.co.jp
+6UGVq9D5kR7q
